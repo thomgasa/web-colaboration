@@ -1,6 +1,8 @@
+
 body{
     background: #BDBDBD;
 }
+<<<<<<< HEAD
 
 .card-title {
 
@@ -29,3 +31,42 @@ body{
     justify-content: flex-start;
 }
 
+=======
+/*first_heading properties*/
+.FirstHeading{
+    text-align: center;
+}
+
+ .imagee{
+     width: 200px;  
+     height: 200px;
+     border-radius: 50%;
+
+ }
+ .block1{
+     display: flex;
+     justify-content: flex-end;
+     margin: 0px;
+ }
+.block1 p{
+    text-align: center;
+}
+
+/*service properties*/
+.imageea{
+     width: 200px;  
+     height: 200px;
+     border-radius: 50%;
+}
+.SecondHeading{
+    text-align: center;
+}
+
+.service{
+display: flex;
+flex-direction: row-reverse;
+}
+.service p{
+    text-align: center;
+}
+>>>>>>> 5b7821670daea707a55e209f60d1e02d4b3b4cc9
