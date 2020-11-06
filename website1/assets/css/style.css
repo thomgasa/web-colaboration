@@ -1,7 +1,43 @@
+
+}
 body{
     background: #BDBDBD;
 }
+/*first_heading properties*/
+.FirstHeading{
+    text-align: center;
+}
  
- .primera{
-     width: 10px;
+
+ .imagee{
+     width: 200px;  
+     height: 200px;
+     border-radius: 50%;
+
  }
+ .block1{
+     display: flex;
+     justify-content: flex-end;
+     margin: 0px;
+ }
+.block1 p{
+    text-align: center;
+}
+
+/*service properties*/
+.imageea{
+     width: 200px;  
+     height: 200px;
+     border-radius: 50%;
+}
+.SecondHeading{
+    text-align: center;
+}
+
+.service{
+display: flex;
+flex-direction: row-reverse;
+}
+.service p{
+    text-align: center;
+}
