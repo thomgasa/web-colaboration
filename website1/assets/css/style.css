@@ -2,7 +2,6 @@
 body{
     background: #BDBDBD;
 }
-<<<<<<< HEAD
 
 .card-title {
 
@@ -31,7 +30,6 @@ body{
     justify-content: flex-start;
 }
 
-=======
 /*first_heading properties*/
 .FirstHeading{
     text-align: center;
@@ -69,4 +67,3 @@ flex-direction: row-reverse;
 .service p{
     text-align: center;
 }
->>>>>>> 5b7821670daea707a55e209f60d1e02d4b3b4cc9
