@@ -1,9 +1,7 @@
 
-}
 body{
     background: #BDBDBD;
 }
-<<<<<<< HEAD
 /*first_heading properties*/
 .FirstHeading{
     text-align: center;
@@ -40,9 +38,4 @@ flex-direction: row-reverse;
 }
 .service p{
     text-align: center;
-=======
-.form-actions {
-margin: 0;
-text-align: right;
->>>>>>> 96f3e5501d9f3d1bd9d6e755edb133d77a6c1e18
 }
