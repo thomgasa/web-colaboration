@@ -5,5 +5,27 @@ body{
 .card-title {
 
     align-content: center;
-    font-size: 40px;
+    font-size: 30px;
+    
 }
+
+
+.card-body {
+
+    align-content: center;
+    align-items: center;
+    text-align: center;
+}
+.card-text {
+
+    color: blue;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.card-text1 {
+
+    display: flex;
+    justify-content: flex-start;
+}
+
