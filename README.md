@@ -20,8 +20,8 @@ Each student works on a different file, for a different part of the website and 
 
 In order to watch the website live run the following command:
 
-```bash
-$ npx browser-sync start -s -w
+```npx browser-sync start -s -w
+$ 
 ```
 
 ## Deploy the website

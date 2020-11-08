@@ -2,16 +2,52 @@
 body{
     background: #BDBDBD;
 }
+
+/*Buttom Properties*/
+.form-actions {
+margin: 0;
+text-align: right;
+}
+
+.card-title {
+
+    align-content: center;
+    font-size: 30px;
+    
+}
+
+
+.card-body {
+
+    align-content: center;
+    align-items: center;
+    text-align: center;
+}
+.card-text {
+
+    color: blue;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.card-text1 {
+
+    display: flex;
+    justify-content: flex-start;
+}
+
 /*first_heading properties*/
 .FirstHeading{
     text-align: center;
 }
 
  .imagee{
-     width: 200px;  
-     height: 200px;
-     border-radius: 50%;
-
+	height: 220px;
+	width: 300px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    border-radius: 50%;
+     background-image: url("../img/1.jpg")
  }
  .block1{
      display: flex;
@@ -24,9 +60,12 @@ body{
 
 /*service properties*/
 .imageea{
-     width: 200px;  
-     height: 200px;
-     border-radius: 50%;
+     height: 220px;
+	width: 300px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    border-radius: 50%;
+     background-image: url("../img/2.jpg")
 }
 .SecondHeading{
     text-align: center;
@@ -37,5 +76,12 @@ display: flex;
 flex-direction: row-reverse;
 }
 .service p{
+    text-align: center;
+}
+
+.display-4{
+    text-align: center;
+}
+.lead{
     text-align: center;
 }
